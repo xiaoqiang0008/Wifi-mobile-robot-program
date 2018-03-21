@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/9.jpg</file>
+        <file>image/car.png</file>
+        <file>image/car2.png</file>
+        <file>image/car3.png</file>
+        <file>image/int.png</file>
+        <file>image/int2.png</file>
+        <file>image/int3.png</file>
+        <file>image/others.png</file>
+        <file>image/others2.png</file>
+        <file>image/others3.png</file>
+        <file>image/shou.png</file>
+        <file>image/shou2.png</file>
+        <file>image/shou3.png</file>
+        <file>image/title.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>button/button1.png</file>
+        <file>button/button2.png</file>
+        <file>button/button3.png</file>
+        <file>button/button11.png</file>
+        <file>button/button31.png</file>
+        <file>button/delete1.png</file>
+        <file>button/delete3.png</file>
+        <file>button/jietu.png</file>
+        <file>button/quanping1.png</file>
+        <file>button/quanping2.png</file>
+        <file>button/zanting1.png</file>
+        <file>button/zanting2.png</file>
+        <file>button/zanting3.png</file>
+    </qresource>
+    <qresource prefix="/others">
+        <file>others/wendu.png</file>
+    </qresource>
+</RCC>
