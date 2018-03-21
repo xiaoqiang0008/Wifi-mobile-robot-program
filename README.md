@@ -3,4 +3,10 @@ The wifi mobile robot program includes a computer terminal program (Qt C++) and 
 
 wifi 移动机器人程序 包括电脑端界面程序（Qt C++），机器人终端程序（stm32 C）；实现机器人运动的无线控制，通过UDP实现实时视频数据回传，机器人传感器（co CH4 ...）数据通过TCP上传到界面程序。
 
+程序各部分功能待完善。。。
 
+![image](https://github.com/xiaoqiang0008/Wifi-mobile-robot-program/blob/master/ui/1.png?raw=true)
+
+![image](https://github.com/xiaoqiang0008/Wifi-mobile-robot-program/blob/master/ui/2.png?raw=true)
+
+![image](https://github.com/xiaoqiang0008/Wifi-mobile-robot-program/blob/master/ui/3.png?raw=true)
